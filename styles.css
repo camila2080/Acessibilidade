@@ -3,6 +3,11 @@
 
 :root {
     --laranja-claro: #cc834c;
+    --laranja-claro: #FF862A;
+    --alto-contraste-fundo: #000000;
+    --alto-contraste-texto: #ffffff;
+    --alto-contraste-link: #ffd700;
+
 }
 
 body {
@@ -165,4 +170,23 @@ h2 {
 
 .nav-img {
     width: 180px;
+}
+
+.alto-contraste{
+    background-color: var(--alto-contraste-fundo);
+    color: var(--alto-contraste-texto);
+}
+
+.alto-contraste #tropicalia {
+    background: none;
+}
+
+
+.alto-contraste #galeria {
+    background-color: var(--alto-contraste-fundo);
+}
+
+
+.alto-contraste .fundo-galeria {
+    background: none;
 }
