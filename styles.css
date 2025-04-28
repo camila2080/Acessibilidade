@@ -30,7 +30,7 @@ section {
 
 .inicio-fundo {
     /* aula 3 */
-    background-image: url('img/Captura\ de\ tela_2025-04-28_11-21-16.png');
+    background-image: url('img/cafécor.avif');
     /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
@@ -109,7 +109,7 @@ h2 {
 }
 
 #contato {
-    background-image: url('img/cafécor.avif');
+    background-image: url('img/Captura\ de\ tela_2025-04-28_11-21-16.png');
     background-size: cover;
     padding: 4rem 0;
     /* Espaçamento interno para a seção de contato */
